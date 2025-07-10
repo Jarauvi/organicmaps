@@ -1,7 +1,24 @@
 <div align="center">
-  <img src="qt/res/logo.png" height="100"/>
+  <img src="https://github.com/Jarauvi/organicmaps/blob/master/savonian_coa.png" height="100"/>
 </div>
-<h1 align="center"">Organic Maps</h1>
+<h1 align="center"">Organic Maps - Savonian edition</h1>
+
+This is fork of Organic Maps that replaces default Finnish TTS strings with Savonian accent. For the best result, TTS engine and model of this repo should be used.
+
+Demonstration video:
+
+[![Watch the video](https://img.youtube.com/vi/nTjUuRwqrVk/0.jpg)](https://www.youtube.com/watch?v=nTjUuRwqrVk)
+
+## Installation
+- Optional: Get Esa Pakarinen TTS voice by installing SherpaTTS [from this repo](https://github.com/Jarauvi/ttsEngine) (follow instructions there)
+- Download apk package from Releases page below
+- Allow phone to install apps from unknown sources
+- Install the apk
+- Turn on voice instructions from Organic Maps Settings and ensure that the language is set to Finnish
+
+__________________________________________________
+
+# Original Organic Maps Readme:
 
 **Organic Maps** is a privacy-first offline maps & GPS app for hiking, cycling, biking, and driving. Absolutely free. No ads. No tracking. Developed with love by the open-source community. Powered by [OpenStreetMap](https://www.openstreetmap.org) data.
 
