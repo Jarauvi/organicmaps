@@ -11,7 +11,7 @@ Demonstration video:
 
 ## Installation
 - Optional: Get Esa Pakarinen TTS voice by installing SherpaTTS [from this repo](https://github.com/Jarauvi/ttsEngine) (follow instructions there)
-- Download apk package from Releases page below
+- Download apk package from [Releases](https://github.com/Jarauvi/organicmaps/releases) page
 - Allow phone to install apps from unknown sources
 - Install the apk
 - Turn on voice instructions from Organic Maps Settings and ensure that the language is set to Finnish
