@@ -3,7 +3,7 @@
 </div>
 <h1 align="center"">Organic Maps - Savonian edition</h1>
 
-This is a fork of cool [Organic Maps](https://github.com/organicmaps/organicmaps) project. This version replaces default Finnish TTS strings with Savonian accent. For the best result, TTS engine and model of [this repo](https://github.com/Jarauvi/ttsEngine) should be used.
+This is a fork of cool [Organic Maps](https://github.com/organicmaps/organicmaps) project. This version replaces default literature Finnish TTS strings with Savonian dialects. For the best result, TTS engine and model of [this repo](https://github.com/Jarauvi/ttsEngine) should be used.
 
 Demonstration video (click image for YouTube):
 
