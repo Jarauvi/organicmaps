@@ -5,7 +5,7 @@
 
 This is a fork of cool [Organic Maps](https://github.com/organicmaps/organicmaps) project. This version replaces default Finnish TTS strings with Savonian accent. For the best result, TTS engine and model of [this repo](https://github.com/Jarauvi/ttsEngine) should be used.
 
-Demonstration video:
+Demonstration video (click image for YouTube):
 
 [![Watch the video](https://img.youtube.com/vi/nTjUuRwqrVk/0.jpg)](https://www.youtube.com/watch?v=nTjUuRwqrVk)
 
